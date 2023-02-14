@@ -1,2 +1,3 @@
 hello world!
 Nama : Fatwa Reza Rizqika
+posisi : admin software trainer
